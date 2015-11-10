@@ -11,4 +11,3 @@ test-output/
 src/generated/*
 .DS_Store
 log/
-config-client/
